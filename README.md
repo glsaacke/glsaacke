@@ -1,7 +1,7 @@
 Hi 👋 My name is Gavin Saacke
 =============================
 
-As a junior studying Management Information Systems at the University of Alabama, I am passionate about leveraging technology to solve real-world challenges. My GitHub showcases a blend of hands-on projects reflecting my commitment to practical applications of MIS principles. Eager to collaborate and contribute to innovative solutions in the tech industry. Feel free to customize it based on your specific experiences and goals!
+As a junior studying Management Information Systems at the University of Alabama, I am passionate about leveraging technology to solve real-world challenges. My GitHub showcases a mix of both coursework-driven projects, demonstrating my application of MIS principles, and personal projects undertaken independently, highlighting my dedication to continuous learning and skill enhancement beyond the classroom. Eager to collaborate and contribute to innovative solutions in the tech industry!
 
 * 🌍  I'm based in Tuscaloosa, AL
 * ✉️  You can contact me at [glsaacke@crimson.ua.edu](mailto:glsaacke@crimson.ua.edu)
