@@ -5,7 +5,7 @@ As a junior studying Management Information Systems at the University of Alabama
 
 * 🌍  I'm based in Tuscaloosa, AL
 * ✉️  You can contact me at [glsaacke@crimson.ua.edu](mailto:glsaacke@crimson.ua.edu)
-* ⚡  Track/Cross Country Student Athlete
+* ⚡  Track/Cross Country Student-Athlete
 
 ### Skills
 
