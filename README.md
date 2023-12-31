@@ -23,6 +23,6 @@ As a junior studying Management Information Systems at the University of Alabama
 
 <div width="100%" align="center"><a href="https://github.com/glsaacke/221PA5-theme.park.manager" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=glsaacke&repo=221PA5-theme.park.manager&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/glsaacke/221PA6-book.rental.site" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=glsaacke&repo=221PA6-book.rental.site&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br />
+<br />
 
 <div width="100%" align="center"><a href="https://github.com/glsaacke/221PA3-spy.training.game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=glsaacke&repo=221PA3-spy.training.game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
