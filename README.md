@@ -7,7 +7,6 @@ A little about me:
 * 📊  Data Analytics intern for UA Athletics
 * ⚡  Track/Cross Country Student Athlete
 * ✉️  You can contact me at [glsaacke@crimson.ua.edu](mailto:glsaacke@crimson.ua.edu)
-* 
 
 
 ### Skills
