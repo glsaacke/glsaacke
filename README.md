@@ -3,8 +3,8 @@ Hi I'm Gavin Saacke.
 
 A little about me:
 
-* 💻  Studying Management Information Systems at The University of Alabama
-* 📊   Software Engineer at Moultrie Mobile
+* 📖  Studying Management Information Systems at The University of Alabama
+* 💻   Software Engineer at Moultrie Mobile
 * ⚡  Track/Cross Country Student Athlete
 * ✉️  You can contact me at [glsaacke@crimson.ua.edu](mailto:glsaacke@crimson.ua.edu)
 
