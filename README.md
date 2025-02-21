@@ -13,7 +13,7 @@ A little about me:
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,react,html,css,py,django,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,react,html,css,py,docker,django,mysql)](https://skillicons.dev)
 
 
 ### Socials
