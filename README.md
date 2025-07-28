@@ -6,7 +6,7 @@ A little about me:
 * 💻   Fullstack Software Engineer at Moultrie Mobile
 * 📖  Studied Management Information Systems at The University of Alabama
 * ⚡  Track/Cross Country Student Athlete
-* ⚙️ Currently: Learning Typescript
+* ⚙️ Currently: Learning Svelte
 * ✉️  You can contact me at [gavin.saacke@gmail.com](mailto:gavin.saacke@gmail.com)
 
 
